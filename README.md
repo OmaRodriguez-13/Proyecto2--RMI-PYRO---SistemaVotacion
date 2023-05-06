@@ -26,9 +26,9 @@ git clone https://github.com/OmaRodriguez-13/Proyecto2--RMI-PYRO---SistemaVotaci
 
 ### Requerimientos
 
-#### **Importante: Conexión a la misma red.**
-#### Editor de código (por ejemplo: [Visual Studio Code]
-#### Python 3.11.2
+#### - **Importante: Conexión a la misma red.**
+#### - Editor de código (por ejemplo: [Visual Studio Code]
+#### - Python 3.11.2
 
 #### Pyro4:
 
