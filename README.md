@@ -26,9 +26,10 @@ git clone https://github.com/OmaRodriguez-13/Proyecto2--RMI-PYRO---SistemaVotaci
 
 ### Requerimientos
 
-#### - **Importante: Conexión a la misma red.**
-#### - Editor de código (por ejemplo: [Visual Studio Code]
-#### - Python 3.11.2
+- Importante: Conexión a la misma red.
+- Desactivar Firewall de Windows para evitar cualquier error de conexión.
+- Editor de código (por ejemplo: [Visual Studio Code]).
+- Python 3.11.2
 
 #### Pyro4:
 
@@ -42,7 +43,7 @@ Cambie la linea 47 del archivo [system.py] con la direccón ip de su equipo serv
 
 [![line47.png](https://i.postimg.cc/VLSSCx6F/line47.png)](https://postimg.cc/Tp6Y8Hny)
 
-Si conoce la dirección ip de su equipo, puede introducir el siguiente comando en el cmd.
+Si no conoce la dirección ip de su equipo, puede introducir el siguiente comando en el cmd.
 
 ```bash
 ipconfig
