@@ -19,7 +19,7 @@ Descargar el zip que contiene los archivos fuente del proyecto.
 ### Vía git 
 
 ```bash
-git clone https://github.com/OmaRodriguez-13/Proyecto2--RMI-PYRO---SistemaVotacion
+git clone https://github.com/OmaRodriguez-13/Proyecto2--RMI-PYRO---SistemaVotacion.git
 ```
 
 ## Guía Rápida
